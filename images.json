@@ -1,0 +1,58 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/yz64l6p1xw7a1.jpg",
+            "unitName": "Goku Super Saiyan 3 ",
+            "unitColor": "Green Unit",
+            "dateReleased": "10/22/2019"
+        },
+        {
+            "imgPath": "img/places/bc34938009e6f00418ec0504863718de.jpg",
+            "unitName": "Majin Vegeta",
+            "unitColor": "Yellow Unit",
+            "dateReleased": "10/29/2024"
+        },
+        {
+            "imgPath": "img/places/Gc-9lO9XEAA6h7h.jpg",
+            "unitName": "Vegito",
+            "unitColor": "Green Unit",
+            "dateReleased": "11/21/2024"
+        },
+        {
+            "imgPath": "img/places/got-these-lf-on-the-super-saiyan-daima-goku-only-5k-cc-v0-8soa0ndow66e1.jpg",
+            "unitName": "Super Sayian Goku(Mini)",
+            "unitColor": "Red Unit",
+            "dateReleased": "10/12/2024"
+        },
+        {
+            "imgPath": "img/places/images (1).jpg",
+            "unitName": "Turles",
+            "unitColor": "Blue Unit",
+            "dateReleased": "09/29/2024"
+        },
+        {
+            "imgPath": "img/places/images (2).jpg",
+            "unitName": "Half-Corrupted Fusion Zamasu",
+            "unitColor": "Red Unit",
+            "dateReleased": "05/29/2021"
+        },
+        {
+            "imgPath": "img/places/images.jpg",
+            "unitName": "Son Gohan (Beast)",
+            "unitColor": "Yellow Unit",
+            "dateReleased": "12/16/2024"
+        },
+        {
+            "imgPath": "img/places/is-tree-of-might-goku-the-least-appealing-version-of-the-v0-wb9basnmurud1.jpg",
+            "unitName": "Goku",
+            "unitColor": "Yellow Unit",
+            "dateReleased": "10/09/2024"
+        },
+        {
+            "imgPath": "img/places/rf21f448iyt91.webp",
+            "unitName": "Super Saiyan God SS Gogeta",
+            "unitColor": "Yellow Unit",
+            "dateReleased": "12/22/2020"
+        }
+    ]
+}
